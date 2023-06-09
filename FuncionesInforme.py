@@ -12,8 +12,9 @@ def calcular_cantidades_cinematicas(posicion_final, posicion_inicial,
     unidades en el S.I. Para especificar los incognitas del ejercicio
     se deben ingresar como argumento las letras correspondientes a la mismas 
     como string. Ejemplo, si la incognita es la velocidad final  y la posición
-    final en el MRUV entonces se debe ingresar "x" en el primer argumento y
-    "v" en el tercer argumento
+    final entonces se debe ingresar "x" en el primer argumento y "v" en el tercer 
+    argumento ademas se debe especificar el tipo de movimiento entre
+    comillas en el ultimo argumento de la funcion
 
     parámetros de entrada:
     posicion_final en metros
