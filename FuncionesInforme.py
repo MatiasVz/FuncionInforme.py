@@ -1,4 +1,4 @@
-#FUNCIÓN PARA EL MOVIMIENTO RECTILÍNEO UNIFORME
+
 import math
 
 def calcular_cantidades_cinematicas(posicion_final, posicion_inicial,
