@@ -14,7 +14,7 @@ def calcular_cantidades_cinematicas(posicion_final, posicion_inicial,
     como string. Ejemplo, si la incognita es la velocidad final  y la posición
     final entonces se debe ingresar "x" en el primer argumento y "v" en el tercer 
     argumento ademas se debe especificar el tipo de movimiento entre
-    comillas en el ultimo argumento de la funcion
+    comillas en el último argumento de la función
 
     parámetros de entrada:
     posicion_final en metros
